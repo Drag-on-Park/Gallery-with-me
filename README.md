@@ -30,9 +30,6 @@ AI 이미지 인식 기능 기능을 통해 전시 작품뿐 아니라 기존에
 - **AI/ML**: Langchain, Hugging Face Transformers, OpenAI, ONNX
 - **Search**: ChromaDB
 
-### Frontend
-- (프로젝트 구조상 Frontend 코드는 분리되어 있을 것으로 추정됩니다.)
-
 ### DevOps
 - **Containerization**: Docker, Docker Compose
 
