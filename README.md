@@ -1,4 +1,6 @@
 # Gallery With Me
+<img width="1710" height="869" alt="스크린샷 2025-07-16 오후 1 09 34" src="https://github.com/user-attachments/assets/80bcaa69-2051-4dfe-9dc8-f07b77722629" />
+
 
 ## 🖼️ 프로젝트 소개
 
